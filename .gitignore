@@ -1,0 +1,7 @@
+argon-dashboard-master/
+crm_main/
+argon-dashboard-master.zip
+db.sqlite3
+staticfiles/
+static\assets\img/
+static\assets\vendor/
